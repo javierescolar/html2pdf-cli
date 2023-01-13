@@ -1,0 +1,11 @@
+{
+    "ticket": "123456789",
+    "name": "User Name",
+    "lines": [
+        {
+            "quantity": 1,
+            "description": "Descrption Artícle 1",
+            "price": "5.90€"
+        }
+    ]
+}
